@@ -13,3 +13,5 @@ ls -a -> lista arquivos ocultos (./ ../ e outros)
 git init . -> Cria um repositório de acordo com a pasta atual de um 'pwd' antes de dar 'git 	      init .' para saber onde você está
 
 rm -rf 'arquivo' -> comando para apagar arquivo/pasta, cuidado com ele
+
+cat -> exibe conteúdo do arquivo
