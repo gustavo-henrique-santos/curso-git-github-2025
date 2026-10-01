@@ -10,17 +10,6 @@ ls -a -> lista arquivos ocultos (./ ../ e outros)
 	-> ./ = pasta atual
 	-> ../ = pasta anterior/pasta pai (ex.: de um cd ../ e você retorna uma pasta)
 
-git init . -> Cria um repositório de acordo com a pasta atual de um 'pwd' antes de dar 'git init .' para saber onde você está
-
-git status -> mostra o status do trabalho (de cada 
-arquivo)
-
-git add 'nome_arquivo' -> adiciona/prepara o arquivo 
-para ser commitado 
-
-git commit -m "msg" -> faz commit do que estava/aguardava 
-para ser comitado
-
 rm - > remove arquivo ou diretório
 
 rm -rf 'diretório' -> comando para apagar de forma recursiva e forçada todos diretórios/arquivo/pasta, cuidado com ele
