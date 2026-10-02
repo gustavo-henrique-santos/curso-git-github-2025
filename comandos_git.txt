@@ -1,16 +1,16 @@
-git init . -> Cria um repositório .git/ na pasta atual
+git init .          	-> Cria um repositório .git/ na pasta atual
 
-git status -> mostra o status do trabalho (de cada 
+git status 		-> mostra o status do trabalho (de cada 
 arquivo)
 
-git add 'nome_arquivo' -> adiciona/prepara o arquivo 
+git add 'nome_arquivo'	-> adiciona/prepara o arquivo 
 para ser commitado 
 
-git commit -m "msg" -> faz commit do que estava/aguardava 
+git commit -m "msg qlqr" 	-> faz commit do que estava/aguardava 
 para ser comitado
 
-git log -> Exibe histórico de commits
+git log 		-> Exibe histórico de commits
 
-git reset -> Retorna para unstage
+git reset 		-> Retorna para unstage
 
-git reset idCommit -> Retorna para pos-commit
+git reset idCommit 	-> Retorna para pos-commit
