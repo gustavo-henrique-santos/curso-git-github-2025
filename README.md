@@ -65,3 +65,7 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+
+Se liga no nosso site e agenda para ficar por dentro de tudo.
+
+[teomewhy.org](https://teomewhy.org/schedule)
